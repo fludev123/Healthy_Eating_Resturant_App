@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "354072565535",
+    "project_id": "final-project-healthy-eating",
+    "storage_bucket": "final-project-healthy-eating.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354072565535:android:d8bdceeb45252ab356822a",
+        "android_client_info": {
+          "package_name": "com.example.final_project_healthy_eating"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXHlIRah9G78UHaSgZQ3o2eCR4VsiIIm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
